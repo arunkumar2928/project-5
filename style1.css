@@ -1,0 +1,91 @@
+.loginletter{
+    display:flex;
+    margin-left: 900px;
+    text-decoration: none;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+  }
+  hr{
+    height: 45px;
+    padding: 0px;
+    
+  }
+  .logintitle{
+    margin:auto;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(255, 255, 255);
+    text-shadow: 0 0 15px #000000;
+    
+    padding: 2px;
+  }
+  .form{
+    width: 300px;
+    height:300px;
+    position: absolute;
+    top: 8px;
+    right: 50px;
+    padding:0px;
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-top:100px;
+    margin-bottom: 100px;
+    
+    
+    
+  }
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #918d8d;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.1);
+  }
+  
+  .container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .container input[type="text"],
+  
+  .container input[type="password"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #716c6c;
+    box-sizing: border-box;
+    border-radius: 20px;
+  }
+  
+  .container button {
+    background-color: #9b9797;
+    color: #000000;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+    border-radius: 20px;
+    box-shadow:0px 0px 5px  #ffffff;
+  }
+  
+  .container button:hover {
+    background-color: #45a049;
+  }
+  
+  .container p {
+    text-align: center;
+  }
+  a{
+    color: white;
+    text-decoration: none;
+  }
+  /* signup */
